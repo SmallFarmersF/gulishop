@@ -49,6 +49,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 	关联本地和远程
 	修改本地
 	修改远程
+	
+远程代码提交到本地：git push origin master
 
 #### 先有远程代码
 	直接克隆
