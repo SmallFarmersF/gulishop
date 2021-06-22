@@ -50,7 +50,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 	修改本地
 	修改远程
 	
-远程代码提交到本地：git pull origin master
+
 
 #### 先有远程代码
 	直接克隆
